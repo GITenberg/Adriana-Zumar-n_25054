@@ -1,0 +1,25 @@
+_repo: Adriana-Zumar-n_25054
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Leumann, Carlos Alberto
+    birthdate: 1887
+    gutenberg_agent_id: '28376'
+    url: http://www.gutenberg.org/2009/agents/28376
+description: ''
+gutenberg_issued: '2008-04-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25054'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Fiction'
+title: Adriana Zumarán (novela)
+url: http://www.gutenberg.org/ebooks/25054
